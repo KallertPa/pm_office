@@ -49,12 +49,12 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/cellar\/cellar.json"
+                 "value":".\/cellar\/cellar.json"
                 }, 
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/cellar\/cellar.json"
+                 "value":".\/cellar\/cellar.json"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -138,7 +138,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=VmUGe8KDdGI&ab_channel=BodoliveWaZZuP"
+                 "value":"https:\/\/www.youtube.com\/embed\/VmUGe8KDdGI"
                 }],
          "type":"tilelayer",
          "visible":true,

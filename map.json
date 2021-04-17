@@ -25,12 +25,12 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/cellar\/map.json"
+                 "value":"\/cellar\/cellar.json"
                 }, 
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/cellar\/map.json"
+                 "value":"\/cellar\/cellar.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -196,6 +196,12 @@
          "id":24,
          "name":"meetingroom 2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"meetingroom2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

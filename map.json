@@ -2551,7 +2551,7 @@
         {
          "columns":32,
          "firstgid":6813,
-         "image":"..\/..\/..\/Downloads\/Atlas2\/build_atlas.png",
+         "image":"build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2564,7 +2564,7 @@
         {
          "columns":32,
          "firstgid":7837,
-         "image":"..\/..\/..\/Downloads\/Atlas2\/obj_misk_atlas.png",
+         "image":"obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,

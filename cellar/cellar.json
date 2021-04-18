@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/map.json#dungeon_entry"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json#dungeon_entry"
+                 "value":"..\/map.json#entry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,12 +186,6 @@
  "nextlayerid":49,
  "nextobjectid":12,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,

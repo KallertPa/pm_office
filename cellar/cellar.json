@@ -51,6 +51,12 @@
          "id":49,
          "name":"disco",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":".\/disco.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":12,

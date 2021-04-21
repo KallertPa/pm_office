@@ -117,6 +117,17 @@
          "id":31,
          "name":"dungeon",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":".\/dungeon.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":12,
